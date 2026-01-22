@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "toy-library",
+			"path": "."
+		},
+		{
+			"path": "../toy-library-ui"
+		}
+	],
+	"settings": {}
+}
